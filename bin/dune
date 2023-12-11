@@ -1,0 +1,4 @@
+(executable
+ (public_name flatster)
+ (name main)
+ (libraries lib dream))
